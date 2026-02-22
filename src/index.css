@@ -2,10 +2,4 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Opcional: Garante que o fundo fique escuro se o IA Studio previu isso */
-body {
-  margin: 0;
-  padding: 0;
-  background-color: #0f172a; /* Cor grafite escuro padrão de SST */
-  color: white;
-}
+
